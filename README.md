@@ -25,5 +25,5 @@ What's more, Aidem provides several convenient gestures to help you control vide
 
 ### Download
 
-[![Download on the App Store](./_assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg "Download on the App Store")](https://apps.apple.com/us/app/aidem/id1554794581)
+[![Download on the App Store](./_assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg "Download on the App Store")](https://apps.apple.com/us/app/aidem/id1554794581) [![Download on the Mac App Store](./_assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg "Download on the Mac App Store")](https://apps.apple.com/us/app/aidem/id1554794581)
 

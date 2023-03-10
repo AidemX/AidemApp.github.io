@@ -25,5 +25,6 @@ Aidem 同时提供若干手势操作，以便更好的控制视频播放：
 
 ### 下载
 
-[![前往应用商店下载](../_assets/Download_on_the_App_Store_Badge_CNSC_RGB_blk_092917.svg "前往应用商店下载")](https://apps.apple.com/cn/app/aidem/id1554794581)
+[![前往 App Store 下载](../_assets/Download_on_the_App_Store_Badge_CNSC_RGB_blk_092917.svg "前往App Store 下载")](https://apps.apple.com/cn/app/aidem/id1554794581)
+[![前往 Mac App Store 下载](../_assets/Download_on_the_Mac_App_Store_Badge_CNSC_RGB_blk_092917.svg "前往 Mac App Store 下载")](https://apps.apple.com/cn/app/aidem/id1554794581)
 
