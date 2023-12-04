@@ -2,7 +2,7 @@ window.$docsify = {
   //routerMode: 'history', REF: https://github.com/docsifyjs/docsify/issues/235#issuecomment-322960245
 
   // General
-  name    : 'Aidem',
+  name: 'Aidem Docs',
   nameLink: '/',
   //logo: '/_media/icon.svg'
 
