@@ -10,4 +10,5 @@ CNAME
 
 Dockerfile
 compose.yaml
+.dockerignore
 
